@@ -27,5 +27,6 @@ This is my roadmap for frontend developers
 
 #### Остальное
 
+- [A SPECIFICATION FOR BUILDING APIS IN JSON](https://jsonapi.org/)
 - [Все публичные API](https://github.com/toddmotto/public-apis)
 - [Подсказки](https://devhints.io/)
