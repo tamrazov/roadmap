@@ -19,6 +19,8 @@ This is my roadmap for frontend developers
 - [Как загружать данные на react hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [С Redux на react-hooks и context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
 - [useHooks(🐠)](https://usehooks.com/)
+- [TypeScript Webpack React](https://webpack.js.org/guides/typescript/)
+- [21 Вопрос на React-интервью](https://www.toptal.com/react/interview-questions)
 
 #### JS, React, Redux and others...
 - [Все вопросы на собеседованиях](https://github.com/DopplerHQ/awesome-interview-questions)
