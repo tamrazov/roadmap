@@ -1,6 +1,9 @@
 # roadmap
 This is my roadmap for frontend developers
 
+#### Roadmaps
+- [Frontend Developer](https://roadmap.sh/frontend)
+
 ### Motivation
 - [Главные ошибки джуна](https://blog.csssr.com/ru/article/candidates-mistakes/)
 - [Оценка задач](https://blog.csssr.com/ru/article/estimate-like-god/)
@@ -22,6 +25,7 @@ This is my roadmap for frontend developers
 - [Курс создания react приложения](https://egghead.io/courses/build-your-first-production-quality-react-app)
 - [Прогрессивные веб-приложения](https://web.dev/progressive-web-apps/)
 
+#### Остальное
 
--[Все публичные API](https://github.com/toddmotto/public-apis)
--[Подсказки](https://devhints.io/)
+- [Все публичные API](https://github.com/toddmotto/public-apis)
+- [Подсказки](https://devhints.io/)
