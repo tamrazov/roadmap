@@ -14,10 +14,16 @@ This is my roadmap for frontend developers
 - [Git Hexlet](https://ru.hexlet.io/courses/intro_to_git)
 
 
+#### React
+- [С Redux на react-hooks и context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
+
 #### JS, React, Redux and others...
+- [Все вопросы на собеседованиях](https://github.com/DopplerHQ/awesome-interview-questions)
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/ru/)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Алгоритмы и стурктуры данных](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md)
 - [30 секунд](https://www.30secondsofcode.org/)
+- [Вопросы на собесе по TypeScript](https://www.onlineinterviewquestions.com/typescript-interview-questions/)
 - [список элементов сайта или HTML страницы, которые должны быть проверены перед выпуском в production](https://github.com/ungear/Front-End-Checklist)
 - [Redux-thunk](https://spin.atomicobject.com/2018/11/19/redux-thunk-async-actions/)
 - [YDNJS](https://github.com/getify/You-Dont-Know-JS/)
