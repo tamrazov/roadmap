@@ -15,6 +15,10 @@ This is my roadmap for frontend developers
 
 
 #### JS, React, Redux and others...
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Алгоритмы и стурктуры данных](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md)
+- [30 секунд](https://www.30secondsofcode.org/)
+- [список элементов сайта или HTML страницы, которые должны быть проверены перед выпуском в production](https://github.com/ungear/Front-End-Checklist)
 - [Redux-thunk](https://spin.atomicobject.com/2018/11/19/redux-thunk-async-actions/)
 - [YDNJS](https://github.com/getify/You-Dont-Know-JS/)
 - [Погружение в глубину JS(видео-курс)](https://frontendmasters.com/courses/deep-javascript-v3/)
