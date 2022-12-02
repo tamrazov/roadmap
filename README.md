@@ -16,11 +16,13 @@ This is my roadmap for frontend developers
 
 #### React
 - [React Hooks](https://wattenberger.com/blog/react-hooks)
+- [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - [Как загружать данные на react hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [С Redux на react-hooks и context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
 - [useHooks(🐠)](https://usehooks.com/)
 - [TypeScript Webpack React](https://webpack.js.org/guides/typescript/)
 - [21 Вопрос на React-интервью](https://www.toptal.com/react/interview-questions)
+- [Библиотеки на react](https://github.com/brillout/awesome-react-components)
 
 #### JS, React, Redux and others...
 - [Все вопросы на собеседованиях](https://github.com/DopplerHQ/awesome-interview-questions)
@@ -45,3 +47,4 @@ This is my roadmap for frontend developers
 - [A SPECIFICATION FOR BUILDING APIS IN JSON](https://jsonapi.org/)
 - [Все публичные API](https://github.com/toddmotto/public-apis)
 - [Подсказки](https://devhints.io/)
+- [Почему сложно программировать UI](https://www.youtube.com/watch?v=DCeNCr2tKOI)
